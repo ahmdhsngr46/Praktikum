@@ -1,2 +1,1 @@
-# ahmd46
 # Praktikum
